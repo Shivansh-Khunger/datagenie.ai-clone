@@ -1,4 +1,4 @@
-# DataGenie Modal
+# DataGenie
 
 This project is an attempt to improve the existing [DataGenie.ai](https://www.datagenie.ai/) website with a modern, responsive SaaS UI. The goal is to enhance the user experience with a cleaner design, better responsiveness, and improved functionality while maintaining the core features of the original site.
 
